@@ -1,0 +1,28 @@
+.d-container{
+background-color: #f65314; 
+color: white;
+padding: 3rem 4rem;
+width: 80%;
+height: auto;
+text-align: center;
+overflow: hidden;
+user-select: none;
+border-radius: 8px;
+box-shadow: 4px 4px 4px lightgrey;
+margin: 30px;
+
+
+}
+.d-container h1{
+    letter-spacing: 0.4rem;
+    color: #00a1f1;
+    font-weight: 500;
+
+}
+
+
+
+
+
+
+

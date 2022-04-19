@@ -1,0 +1,18 @@
+.info{
+padding: 10px;
+background-color: #7cbb00;
+border-radius: 8px;
+width: 70%;
+margin-left: 8rem;
+padding-left: 30px;
+height: 130px;
+color: whitesmoke;
+
+}
+
+.info h1{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    text-shadow: 3px lightgray;
+}
