@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SH-app/static/css/main.bb5a6e5d.css",
+    "main.js": "/SH-app/static/js/main.7e37e681.js",
+    "index.html": "/SH-app/index.html",
+    "main.bb5a6e5d.css.map": "/SH-app/static/css/main.bb5a6e5d.css.map",
+    "main.7e37e681.js.map": "/SH-app/static/js/main.7e37e681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5a6e5d.css",
+    "static/js/main.7e37e681.js"
+  ]
+}
